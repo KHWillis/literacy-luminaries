@@ -32,6 +32,14 @@ are blocking vs. nice-to-know-eventually.
 - [ ] Blog/news section at launch, or add later?
 - [ ] Newsletter signup at launch (low effort, high value for building an audience early)?
 
+## Repo / Housekeeping
+- [ ] **Lock the GitHub repo (`KHWillis/literacy-luminaries`) to private** once it
+      contains anything sensitive (contracts, pricing, client data, real credentials,
+      etc.). It's intentionally public right now for easy founder access via GitHub's
+      markdown viewer — see `08-update-for-founders.md`. When this flips to private,
+      the founders will need free GitHub accounts (instructions already sent to them)
+      to keep viewing docs there.
+
 ## Technical (for you to decide, but worth documenting the reasoning)
 - [ ] Static site + headless CMS (recommended) vs. no-code builder (Squarespace/Webflow) —
       see `01-tech-stack-options.md`. Final call?
