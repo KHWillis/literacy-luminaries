@@ -62,6 +62,31 @@ Nothing needs to be decided yet — I just want a sense of your taste before I s
 building the actual design (colors, layout, homepage). Feel free to send feedback
 as casually as you like — screenshots with comments, a quick text, whatever's easy.
 
+## Optional: creating a free GitHub account
+This part is genuinely optional, and not something you'll need day-to-day — but a
+couple of you asked, so here's the short version.
+
+Everything technical about the site (including documents like this one) lives on a
+platform called **GitHub**. Right now it's set up so anyone with the link can view it
+— no account needed. At some point soon we'll lock it down to private (once there's
+more sensitive info in there), and at that point you'd need a free account to keep
+viewing things there.
+
+You will **not** need to do anything technical with it — no code, no editing, nothing
+to maintain. Worst case, it's just a login so you can occasionally view a document or
+a plan. If it's ever more convenient, you can just ask me to email/text you a copy
+instead of looking at GitHub directly — either way is fine.
+
+If you'd like to set one up anyway (2 minutes, totally optional):
+1. Go to **https://github.com/signup**
+2. Enter an email, create a password, and pick a username (anything you like)
+3. Verify your email when it asks
+4. Once logged in, plug this link into your browser to see this page again with your
+   account: **https://github.com/KHWillis/literacy-luminaries**
+
+That's it — no further setup needed. If you get stuck on any step, just send me a
+screenshot and I'll help.
+
 ## What's next on my end
 - Nail down the exact content sections/fields (what info each founder bio needs,
   what a "resource" listing needs, etc.)
